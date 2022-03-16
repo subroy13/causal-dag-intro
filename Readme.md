@@ -1,0 +1,6 @@
+# Introduction to Causal Inference using Directed Acyclic Graphical (DAG) Models
+
+This is a class project as a part of the course on Categorical Data Analysis, Fall 2019 for Master of Statistics (M. Stat.) programme in Indian Statistical Institute, Kolkata. In this project, we provide motivation of why Causal inference is needed through the example of Simpson's Paradox. We present the assumptions to perform Causal inference and introduce the setup 
+of Directed Acyclic Graphs, related to Causal inferential methods. We also describe special types of Graphical models like Chain, Fork, Colliders and d-separation, and determine how we can test for these structures from the available data. We then see how we can estimate different causal effects using Backdoor and Frontdoor criterion, from these DAG structures, and finally we end with some real-life applications of the described methodology.
+
+This is an extensive reading project based on the principals stated in the book *Causal Inference in Statistics: A Primer*, Judea Pearl, Madelyn Glymour, Nicholas P. Jewell. Wiley, 2016.
